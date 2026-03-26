@@ -72,10 +72,5 @@ Example:
 * Auto-restarts should be used carefully; protected resources are skipped.
 * Test new configurations on a staging server before using in production.
 
-## Optional Next Steps
-
-* Add alerts for flagged resources
-* Implement event spam detection
-* Track entity ownership per resource for safer cleanup
 
 
